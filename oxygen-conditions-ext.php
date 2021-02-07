@@ -2,12 +2,12 @@
 
 /*
 Plugin Name: Oxygen Conditions Ext
-Plugin URI: http://URI_Of_Page_Describing_Plugin_and_Updates
+Plugin URI: https://agaveplugins.com
 Description: A brief description of the Plugin.
 Version: 1.1.2
-Author: admin
-Author URI: http://URI_Of_The_Plugin_Author
-License: A "Slug" license name e.g. GPL2
+Author: Andrey and John
+Author URI: https://agaveplugins.com
+License: GLPv2 https://www.gnu.org/licenses/gpl-2.0.html
 */
 
 add_action( 'init', 'oxext_register_conditions' );
